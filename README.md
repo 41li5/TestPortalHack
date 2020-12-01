@@ -1,2 +1,2 @@
-# TesPortal_Rand
+# TestPortal_Rand
 Chrome plugin for checking and writting answers
