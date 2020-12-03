@@ -13,17 +13,23 @@ Instalation is very simple.. follow this steps  :grin:
 # Step 1
 >Write in your browser chrome://extensions or find extension page in your setings
 
+![image](https://github.com/41li5/TestPortalHack/blob/main/img/extension.png)
 # Step 2
 >Enable developer mode to add your custom extension
 
+![image](https://github.com/41li5/TestPortalHack/blob/main/img/developer.png)
 # Step 3
 > Click load unpacked and find your unziped folder 'TestPortalHack' and add it
 
+![image](https://github.com/41li5/TestPortalHack/blob/main/img/folder.png)
 # Step 4
 >Pin your extension in toolbar and switch ON your auto-answer option
 
+![image](https://github.com/41li5/TestPortalHack/blob/main/img/switch.png)
 # Step 5 
 >Have fun with this extension :relaxed: :grin:
+
+![image](https://github.com/41li5/TestPortalHack/blob/main/TestPortalHack/img/img128.png)
 
 
 # END
