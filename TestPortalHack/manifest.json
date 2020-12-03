@@ -1,0 +1,31 @@
+{
+  "manifest_version": 2,
+  "name": "TestPortalHack",
+  "description": "Witaj w TestPortalHack",
+  "version": "1.0",
+  "icons": {
+    "128": "img/img128.png",
+    "48": "img/img48.png",
+    "32": "img/img32.png",
+    "16": "img/img16.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*.testportal.pl/*",
+        "https://*.testportal.net/*",
+        "https://teams.microsoft.com/*",
+        "https://*.teams.microsoft.com/*",
+        "https://www.testportal.pl/*"
+      ],
+      "js": ["js/hack.js" ]
+    }
+  ],
+  "browser_action": {
+    "default_icon": "img/img16.png",
+    "default_popup": "info.html"
+  },
+  "permissions": [
+    "storage"
+  ]
+}
