@@ -22,6 +22,7 @@ Instalation is very simple.. follow this steps  :grin:
 > Click load unpacked and find your unziped folder 'TestPortalHack' and add it
 
 ![image](https://github.com/41li5/TestPortalHack/blob/main/img/load.png)
+
 ![image](https://github.com/41li5/TestPortalHack/blob/main/img/folder.png)
 # Step 4
 >Pin your extension in toolbar and switch ON your auto-answer option
