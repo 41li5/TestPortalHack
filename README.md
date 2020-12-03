@@ -11,13 +11,13 @@
 Instalation is very simple.. follow this steps  :grin:
 
 # Step 1
->Write in your browser chrome://extensions or find in your setings
+>Write in your browser chrome://extensions or find extension page in your setings
 
 # Step 2
->Enable developer mode to add your extension
+>Enable developer mode to add your custom extension
 
 # Step 3
-> Click load unpacked and find your unziped folder TestPortalHack and add it
+> Click load unpacked and find your unziped folder 'TestPortalHack' and add it
 
 # Step 4
 >Pin your extension in toolbar and switch ON your auto-answer option
