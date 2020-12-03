@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "TestPortalHack",
-  "description": "Witaj w TestPortalHack",
+  "description": "Hello in TestPortalHack",
   "version": "1.0",
   "icons": {
     "128": "img/img128.png",
