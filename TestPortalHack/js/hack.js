@@ -1,1 +1,61 @@
-var _0x4b4a=['getElementsByTagName','▂▃▄▅▆▇█▓▒░LOL░▒▓█▇▆▅▄▃▂','storage','getElementById','givenAnswer_ifr','tinymce','value','✿♥✿░B░E░A░U░T░I░F░U░L\x20░✿♥✿','floor','checkbox','Don\x27t\x20cheat\x20on\x20exam','sync','sml\x20mdc-button\x20mdc-card__action\x20mdc-card__action--button',':)\x20;)\x20:)','The\x20quiet\x20is\x20the\x20answer','▂▃▅▆▇▇▆▅▃▂','startsWith','input','♫♪.ılılıll|̲̅̅●̲̅̅|̲̅̅=̲̅̅|̲̅̅●̲̅̅|llılılı.♫♪','type','length','URL','https://www.testportal.pl/exam/LoadQuestion.html','random','*̡͌l̡*̡̡\x20̴̡ı̴̴̡\x20̡̡͡|̲̲̲͡͡͡\x20̲▫̲͡\x20̲̲̲͡͡π̲̲͡͡\x20̲̲͡▫̲̲͡͡\x20̲|̡̡̡\x20̡','innerHTML','⓿❶\x20❷\x20❸\x20❹\x20❺\x20❻\x20❼\x20❽\x20❾\x20','mdc-button\x20mdc-button--outlined','get','myonoffswitch','click','getElementsByClassName','radio'];(function(_0x38c996,_0x3a466b){var _0x4b4a82=function(_0x40309b){while(--_0x40309b){_0x38c996['push'](_0x38c996['shift']());}};_0x4b4a82(++_0x3a466b);}(_0x4b4a,0x187));var _0x4030=function(_0x38c996,_0x3a466b){_0x38c996=_0x38c996-0x185;var _0x4b4a82=_0x4b4a[_0x38c996];return _0x4b4a82;};var _0x231d86=_0x4030;function test(){var _0x10b6b4=_0x4030;if((document[_0x10b6b4(0x188)](_0x10b6b4(0x196))||[])['length']>0x0)document[_0x10b6b4(0x188)](_0x10b6b4(0x196))[0x0][_0x10b6b4(0x187)]();var _0xb5b75=document['getElementsByTagName'](_0x10b6b4(0x19b)),_0x18bf8f=[],_0x23fe74=[];let _0x1d0bea=[_0x10b6b4(0x194),_0x10b6b4(0x198),_0x10b6b4(0x197),_0x10b6b4(0x19c),_0x10b6b4(0x191),_0x10b6b4(0x199),_0x10b6b4(0x1a4),_0x10b6b4(0x18b),_0x10b6b4(0x1a2),'Ⓞ═╦╗\x20key\x20is\x20the\x20answer','_̴ı̴̴̡̡̡\x20̡͌l̡̡̡\x20̡͌l̡*̡̡\x20̴̡ı̴̴̡\x20̡̡͡|̲̲̲͡͡͡\x20̲▫̲͡\x20̲̲̲͡͡π̲̲͡͡\x20̲̲͡▫̲̲͡͡\x20̲|̡̡̡\x20̡\x20̴̡ı̴̡̡\x20̡͌l̡̡̡̡.┣┓웃┏♨❤♨┑유┏ı̴̴̡̡̡\x20̡͌l̡̡̡\x20̡͌l̡*̡̡\x20̴̡ı̴̴̡\x20̡̡͡'];for(var _0x114114=0x0;_0x114114<_0xb5b75['length'];_0x114114++){if(_0xb5b75[_0x114114][_0x10b6b4(0x19d)]=='text')_0x23fe74[_0x23fe74[_0x10b6b4(0x19e)]]=_0xb5b75[_0x114114]['id'],_0xb5b75[_0x114114][_0x10b6b4(0x190)]=_0x1d0bea[Math[_0x10b6b4(0x192)](Math[_0x10b6b4(0x1a1)]()*_0x1d0bea[_0x10b6b4(0x19e)])];else(_0xb5b75[_0x114114][_0x10b6b4(0x19d)]==_0x10b6b4(0x189)||_0xb5b75[_0x114114]['type']==_0x10b6b4(0x193))&&(_0x18bf8f[_0x18bf8f[_0x10b6b4(0x19e)]]=_0xb5b75[_0x114114]['id']);}if(_0x18bf8f[_0x10b6b4(0x19e)]>0x0){let _0x22bc23=Math[_0x10b6b4(0x192)](Math[_0x10b6b4(0x1a1)]()*_0x18bf8f[_0x10b6b4(0x19e)]);document[_0x10b6b4(0x18d)](_0x18bf8f[_0x22bc23])[_0x10b6b4(0x187)](),document['getElementsByClassName'](_0x10b6b4(0x1a5))[0x0][_0x10b6b4(0x187)]();}else _0x18bf8f[_0x10b6b4(0x19e)]==0x0&&_0x23fe74[_0x10b6b4(0x19e)]==0x0?setTimeout(()=>{var _0x5bb796=_0x10b6b4,_0x2f8e8f=document[_0x5bb796(0x18d)](_0x5bb796(0x18e))['contentDocument'][_0x5bb796(0x18d)](_0x5bb796(0x18f))[_0x5bb796(0x18a)]('p')[0x0];_0x2f8e8f[_0x5bb796(0x1a3)]=''+_0x1d0bea[Math[_0x5bb796(0x192)](Math[_0x5bb796(0x1a1)]()*_0x1d0bea['length'])],document[_0x5bb796(0x188)](_0x5bb796(0x1a5))[0x0][_0x5bb796(0x187)]();},0x320):document[_0x10b6b4(0x188)](_0x10b6b4(0x1a5))[0x0]['click']();}(document[_0x231d86(0x19f)]['startsWith']('https://www.testportal.pl/exam/DoTestQuestion.html')||document[_0x231d86(0x19f)][_0x231d86(0x19a)]('https://www.testportal.pl/exam/DoStartTest.html')||document['URL'][_0x231d86(0x19a)](_0x231d86(0x1a0)))&&chrome[_0x231d86(0x18c)][_0x231d86(0x195)][_0x231d86(0x185)](_0x231d86(0x186),function(_0x1b6de6){var _0xdeeb1c=_0x231d86;if(_0x1b6de6[_0xdeeb1c(0x186)])test();});
+function test() {
+    if((document.getElementsByClassName("sml mdc-button mdc-card__action mdc-card__action--button")||[]).length > 0)
+    document.getElementsByClassName("sml mdc-button mdc-card__action mdc-card__action--button")[0].click();
+
+    var elements = document.getElementsByTagName("input");
+
+    var checkb = []
+    var texts = []
+
+    let txt = [
+        "
+─────█─▄▀█──█▀▄─█─────
+────▐▌──────────▐▌────
+────█▌▀▄──▄▄──▄▀▐█────
+───▐██──▀▀──▀▀──██▌───
+──▄████▄──▐▌──▄████▄──",       
+      
+    "
+ ▒▒▒▒▒▒▒▒▒▒▒▒
+ ▒▒▒▒▓▒▒▓▒▒▒▒
+ ▒▒▒▒▓▒▒▓▒▒▒▒
+ ▒▒▒▒▒▒▒▒▒▒▒▒
+ ▒▓▒▒▒▒▒▒▒▒▓▒
+ ▒▒▓▓▓▓▓▓▓▓▒▒
+ ▒▒▒▒▒▒▒▒▒▒▒▒
+        "
+    "Don't cheat on exams :)",
+    "I'm cheater !!!",
+    "LOL",
+    "ok",
+    "41414141",    
+
+    ]
+
+    for (var i = 0; i < elements.length; i++){
+        if(elements[i].type == "text") {
+            texts[texts.length] = elements[i].id;
+            elements[i].value = txt[Math.floor(Math.random()*txt.length)];
+        } else if(elements[i].type == "radio" || elements[i].type == "checkbox") {
+            checkb[checkb.length] = elements[i].id;
+        }
+    }
+    if(checkb.length>0){
+        let random = Math.floor(Math.random()*checkb.length);
+        document.getElementById(checkb[random]).click();
+        document.getElementsByClassName("mdc-button mdc-button--outlined")[0].click();
+    } else if (checkb.length==0&&texts.length == 0) {
+        setTimeout(()=>{
+            var iframe = document.getElementById("givenAnswer_ifr").contentDocument.getElementById("tinymce").getElementsByTagName("p")[0];
+            iframe.innerHTML = `${txt[Math.floor(Math.random()*txt.length)]}`;
+            document.getElementsByClassName("mdc-button mdc-button--outlined")[0].click();
+        }, 800)
+    } else {
+        document.getElementsByClassName("mdc-button mdc-button--outlined")[0].click();
+    }
+}
+if (document.URL.startsWith("https://www.testportal.pl/exam/DoTestQuestion.html") || document.URL.startsWith("https://www.testportal.pl/exam/DoStartTest.html") || document.URL.startsWith("https://www.testportal.pl/exam/LoadQuestion.html")) {
+    chrome.storage.sync.get('myonoffswitch', function(storage) {
+        if (storage.myonoffswitch) test();
+    });
+}
